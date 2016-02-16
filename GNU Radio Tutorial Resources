@@ -1,0 +1,18 @@
+GNU Radio Tutorial Resources: Team-HackRF
+
+GNU Radio in a simulation mode
+
+Once GNU Radio is available on your computer, it is useful to become familiar with the DSP library and GNU Radio flow graph construction and operation.  The single best starting point for this learning process is to refer to the tutorials published under the auspices Ettus Research, the center for GNU Radio development. 
+
+The ‘formal’ GNU Radio tutorials, intended to face the world on the Internet, are published on the GNU Radio website.  Supplementary tutorials from the same Ettus Research GNU Radio developer pool are published independently on the Ettus Research website.  These tutorial series are not identical.  Each series covers different aspects of GNU Radio functionality, and each offer a different scope and format.  Both are of practical value for the beginner.
+
+The Tutorials page of the GNU Radio website, lists two separate beginner level tutorial libraries: Core Concepts and Guided Tutorials:  http://gnuradio.org/redmine/projects/gnuradio/wiki/Tutorials 
+
+The Core Concepts tutorials page is comprehensive, covering topics from beginner level materials to advanced GNU Radio development information.  The beginner material is limited and quickly reviewed.  The Guided Tutorials library provides more detailed beginner oriented material and covers all the basics of DSP.   This library has evolved over the years as a group project rather than ‘created’ by a single author.   As a result, the library will appear somewhat chaotic and non-intuitive in its organization.  Don’t be surprised if you get lost at times while trying to navigate the examples.  The material is worth it.
+
+Core concepts of GNU Radio is accessed by selecting the title on the GNU Radio webpage or by following this link: http://gnuradio.org/redmine/projects/gnuradio/wiki/TutorialsCoreConcepts
+
+In a similar fashion, Guided Tutorials is accessed by selecting the title on the GNU Radio webpage or by following this link: http://gnuradio.org/redmine/projects/gnuradio/wiki/Guided_Tutorials
+
+The supplementary  GNU Radio tutorials by Balint Seeber of Ettus Research can be found by following this link:  http://files.ettus.com/tutorials/labs/Lab_1-5.pdf
+
